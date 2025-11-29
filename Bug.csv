@@ -1,0 +1,6 @@
+﻿Issue Type,Issue key,Issue id,Summary,Assignee,Assignee Id,Reporter,Reporter Id,Priority,Status,Resolution,Created,Updated,Due date
+Bug,SCRUM-57,10280,Search results can not be filtered using filters option,,,Nada,712020:84cb3624-9880-4c7e-9b0d-69574448d9e0,Medium,Client By Nada,,15/11/2025 22:25,15/11/2025 22:31,
+Bug,SCRUM-56,10279,Product's review can neither be added or read,,,Nada,712020:84cb3624-9880-4c7e-9b0d-69574448d9e0,Medium,Client By Nada,,15/11/2025 22:20,15/11/2025 22:22,
+Bug,SCRUM-55,10278,product's quantity can not control the add to cart quantity,,,Nada,712020:84cb3624-9880-4c7e-9b0d-69574448d9e0,Medium,Client By Nada,,15/11/2025 22:15,15/11/2025 22:17,
+Bug,SCRUM-52,10275,Adding percentage discount reflected incorrectly on the admin's dashboard,,,Nada,712020:84cb3624-9880-4c7e-9b0d-69574448d9e0,Medium,Admin By Nada,,15/11/2025 22:01,15/11/2025 22:04,
+Bug,SCRUM-18,10177,Deleting non-empty categories with no warning appear,Nada,712020:84cb3624-9880-4c7e-9b0d-69574448d9e0,Nada,712020:84cb3624-9880-4c7e-9b0d-69574448d9e0,Medium,Admin By Nada,,14/11/2025 2:28,15/11/2025 21:34,
