@@ -13,7 +13,7 @@ public class Test_Base {
     }
     @AfterMethod
     public void after() throws InterruptedException {
-        Thread.sleep(6000);
-        driver.quit();
+      Thread.sleep(6000);
+       driver.quit();
     }
 }

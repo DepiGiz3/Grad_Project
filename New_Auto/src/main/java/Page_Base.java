@@ -11,6 +11,10 @@ public class Page_Base {
     public Page_Base(WebDriver driver){
         this.driver = driver;
     }
+
+    public Page_Base() {
+    }
+
     public void Enter_Text(By elementlocator , String text )
     {
         driver.findElement(elementlocator).sendKeys(text);

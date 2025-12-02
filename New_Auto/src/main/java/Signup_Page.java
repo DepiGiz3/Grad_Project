@@ -14,10 +14,10 @@ public class Signup_Page extends Page_Base{
         super(driver);
     }
     public void Enter_Name(){
-        Enter_Text(name_field , "Nada");
+        Enter_Text(name_field , "NadaaM");
     }
     public void Enter_Email(){
-        Enter_Text(email_field , "Nada@Nada.com");
+        Enter_Text(email_field , "Nadaaaa@Nadaa.commm");
     }
     public void sign_button(){
         Click_on_button(signup_button);
